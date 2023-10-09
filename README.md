@@ -11,7 +11,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> -->
 <br>
@@ -39,7 +39,7 @@
 
 <br>
 
-![KimJyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJyun&theme=algolia&show_icons=true)
+<!-- ![KimJyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJyun&theme=algolia&show_icons=true) -->
 
 </div>
 
