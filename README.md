@@ -2,7 +2,7 @@
 
 <div align=center>
 
-## 👩🏻‍💻 BACK-END Developer
+## 👩🏻‍💻 Back-end Developer
 
 ### 🛠 Stack 🛠
 
